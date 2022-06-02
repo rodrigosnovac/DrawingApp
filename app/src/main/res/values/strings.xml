@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="saving_image_text">Saving image...</string>
+</resources>

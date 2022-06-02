@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.387" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/large_brush.xml" value="0.3215" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/medium_brush.xml" value="0.3215" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.387" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.3215" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/small_brush.xml" value="0.3215" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/brush_size_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/custom_loading_dialog.xml" value="0.3859375" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/DrawingApp/app/src/main/res/xml/path.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
